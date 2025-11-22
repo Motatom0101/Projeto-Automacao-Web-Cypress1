@@ -9,4 +9,6 @@ Este repositório contém o código de uma automação web usando Cypress, Gherk
 ### Arquivos trabalhados neste artigo:
  - [package.json](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/package.json)
  
- - [cypress.config.js](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress.config.js) 
+ - [cypress.config.js](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress.config.js)
+
+   Loading...
