@@ -5,6 +5,10 @@ Neste repositório estou desenvolvendo um projeto de automação de teste e2e WE
 
 ## 📚 Artigos onde documentei o que fiz:
 
-- [Automação Web — Cypress e Cucumber — Parte 1.](https://medium.com/@atom.free/automa%C3%A7%C3%A3o-web-cypress-e-cucumber-parte-1-89d5950e739d)
+- [Automação Web — Cypress e Cucumber — Parte 4: Automação Web — 1](https://medium.com/@atom.free/automa%C3%A7%C3%A3o-web-cypress-e-cucumber-parte-4-automa%C3%A7%C3%A3o-web-1-b2ff5a1da7ea)
+   - Código1: [package.json](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/package.json).
+   - Código2: [cypress.config.js](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress.config.js)
+   
+   
 
 Neste artigo vamos iniciar nosso projeto de automação Web com Cypress.
