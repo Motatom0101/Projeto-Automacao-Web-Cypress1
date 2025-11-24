@@ -1,14 +1,11 @@
-# 🎯Automação Web - Cypress e Cucumber (Projeto prático)📝
-[![Cypress](https://api.devicons.dev.br/icon?icons=Cypress&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+# 🎯Teste em APIs com Postman📝
+[![Cypress](https://api.devicons.dev.br/icon?icons=Postman&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
-Este repositório contém o código de uma automação web usando Cypress, Gherkin e Cucumber.
+Este repositório contém a documentação dos meus estudos com testes em APIs com Postman e projeto.
 
 ## 📚 Artigos onde documentei o que fiz:
-[Automação Web — Cypress e Cucumber — Parte 4: Automação Web — 1](https://medium.com/@atom.free/automa%C3%A7%C3%A3o-web-cypress-e-cucumber-parte-4-automa%C3%A7%C3%A3o-web-1-b2ff5a1da7ea?postPublishedType=initial)
+[Postman do Básico ao Avançado com Projetos — parte 1](https://medium.com/@atom.free/postman-do-b%C3%A1sico-ao-avan%C3%A7ado-com-projetos-parte-1-75e937d37998?postPublishedType=initial)
 
-### Arquivos trabalhados neste artigo:
- - [package.json](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/package.json)
- 
- - [cypress.config.js](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress.config.js)
+
 
 Loading...
