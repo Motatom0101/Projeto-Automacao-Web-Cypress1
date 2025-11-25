@@ -5,5 +5,9 @@
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": false,
     "step_definitions": "cypress/e2e/steps/"
+  },
+  "devDependencies": {
+    "cypress": "^15.7.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
   }
 }

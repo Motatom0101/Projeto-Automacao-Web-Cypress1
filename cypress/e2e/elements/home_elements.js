@@ -5,5 +5,5 @@ class HomeElements{
     selectAccount = () => { return 'Agents'}
     // Botão 'Login'
     btnLogin = () => { return 'Login'}
-
+    // Disponibilizando os elementos da classe
 } export default HomeElements
