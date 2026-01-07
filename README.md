@@ -15,14 +15,13 @@ Neste artigo vamos iniciar nosso projeto de automação Web com Cypress.
 
 Neste artigo vamos:
 
- - Criar à estrutura de diretórios com a qual trabalharemos:
- - Usaremos Arrow Functions, que é uma função moderna do JS e menos vermosa;
- - Mapear os elementos da página Home do PHPTravels;
- - Criar a classe Elements da Home;
- - Mapear o Botão Agents (Para poder acessar a página Login);
- - Mapear elementos da página Login e criação da classe page;
- - Mapear elementos da página Login e criação da classe page;
- - Conheceremos a Função da Diretiva /// <reference types=”cypress”/>
+ - Criar à **estrutura de diretórios** com a qual trabalharemos:
+ - Usaremos **Arrow Functions**, que é uma função moderna do **JS** e menos vermosa;
+ - Mapear os **elementos da** página **Home** do PHPTravels;
+ - Criar a **classe Elements** da Home;
+ - Mapear o Botão Agents (Para poder **acessar a página Login**);
+ - Mapear elementos da página Login e criação da **classe page**;
+ - Conheceremos a **Função da Diretiva** /// <reference types=”cypress”/>
  - Aprenderemos a instanciar classes;
  - Aprenderemos a criar e acessar métodos das classes;
  - Aprenderemos a usar o ‘cy.wait’ para programar uma espera.
