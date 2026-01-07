@@ -1,5 +1,5 @@
 # 🎯Automação Web - Cypress e Cucumber (Projeto Pratico)📝
-[![Cypress](https://api.devicons.dev.br/icon?icons=Cypress&size=48&theme=light&perline=30)](https://devicons.dev.br/)
+[![Cypress](https://api.devicons.dev.br/icon?icons=Cypress%2CJavaScript&size=48&theme=light&perline=30)](https://devicons.dev.br/)
 
 Neste repositório estou desenvolvendo um projeto de automação de teste e2e WEB com Cypress e JavaScript, com base no curso 'Automação Web - Cypress e Cucumber'.
 
