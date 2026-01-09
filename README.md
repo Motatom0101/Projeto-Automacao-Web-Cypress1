@@ -12,6 +12,7 @@ Neste repositório estou desenvolvendo um projeto de automação de teste e2e WE
    - **Código2**: [**cypress.config.js**](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress.config.js)
    
 Neste artigo vamos iniciar nosso projeto de automação Web com Cypress.
+
 #
 - [Automação Web — Cypress e Cucumber — Parte 5: Automação Web — 2](https://medium.com/@atom.free/automa%C3%A7%C3%A3o-web-cypress-e-cucumber-parte-5-automa%C3%A7%C3%A3o-web-2-f392af5d14e3?postPublishedType=initial)
 
@@ -39,11 +40,11 @@ Neste artigo vamos:
 
 Neste artigo veremos:
 
-Finalizaremos nossa automação estruturando o arquivo [login.feature], que contém os cenários escritos em Gherkin. Em seguida, implementaremos o arquivo ‘login_steps.js’, onde importamos a classe ‘LoginPage’ e instanciamos o objeto para orquestrar as ações. Utilizaremos Regex e variáveis para conectar os steps do Gherkin aos métodos da classe, garantindo a reutilização de código. Por fim, executaremos nosso primeiro teste no Cypress com sucesso, validando o fluxo de ponta a ponta.
+Finalizaremos nossa automação estruturando o **arquivo** [**login.feature**], que contém o teste escritos em **Gherkin**, validando **regras de negócio**. Em seguida, implementaremos o arquivo **‘login_steps.js’**, onde importamos a **classe ‘LoginPage’** e instanciamos o objeto para orquestrar as ações. Utilizaremos **Regex** e variáveis para conectar os steps do Gherkin aos métodos da classe, garantindo a reutilização de código. Por fim, executaremos nosso primeiro teste no Cypress com sucesso, validando o fluxo de ponta a ponta.
 
-   - **Código1**: [**login.feature**](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress/e2e/features/login.feature)
+  - **Código1**: [**login.feature**](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress/e2e/features/login.feature)
      
-   - **Código2**: [**login_steps.js**](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress/e2e/steps/login_steps.js)
+  - **Código2**: [**login_steps.js**](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress/e2e/steps/login_steps.js)
    
 
 #
