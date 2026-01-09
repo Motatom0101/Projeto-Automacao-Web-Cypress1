@@ -4,6 +4,6 @@ class LoginElements{
     // Campo de inputPassword
     inputPassword = () => { return '#password'}
     // Botão Login
-    btnLogin = () => { return '#submitBTN'}
+    submitLogin = () => { return '#submitBTN'}
 
 } export default LoginElements

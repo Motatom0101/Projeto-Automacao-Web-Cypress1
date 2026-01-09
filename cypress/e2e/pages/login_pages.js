@@ -5,28 +5,28 @@ import LoginElements from "../elements/login_elements"
 const loginElements = new LoginElements
 const homeElements = new HomeElements
 
-const url = Cypress.config('baseUrl')
+const url = Cypress.config('baseURL')
 
 class LoginPage {
 
     accessHomePage() {
         cy.visit(url)
         cy.wait(3000)
-        cy.get(homeElements.btnHideCookie()).click()
+        cy.get(homeElements.btnHideCookie()).click();
     }
 
     accessLoginPage() {
-        cy.contains(homeElements.selectAccount()).click
-        cy.contains(homeElements.btnLogin()).click
+        cy.contains(homeElements.selectAccount()).click();
+        cy.contains(homeElements.btnLogin()).click();
     }
 
     fillLoginInfo(email, password) {
-        cy.contains(loginElements.inputEmail()).type(email)
-        cy.get(loginElements.inputPassword()).type(password)
+        cy.get(loginElements.inputEmail()).type(email);
+        cy.get(loginElements.inputPassword()).type(password);
     }
 
     submitLogin() {
-        cy.get(loginElements.submitLogin()).click()
+        cy.get(loginElements.submitLogin()).click();
     }
 
 } export default LoginPage
