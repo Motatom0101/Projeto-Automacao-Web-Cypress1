@@ -42,9 +42,9 @@ Neste artigo veremos:
 
 Finalizaremos nossa automação estruturando o **arquivo** [**login.feature**], que contém o teste escritos em **Gherkin**, validando **regras de negócio**. Em seguida, implementaremos o arquivo **‘login_steps.js’**, onde importamos a **classe ‘LoginPage’** e instanciamos o objeto para orquestrar as ações. Utilizaremos **Regex** e variáveis para conectar os steps do Gherkin aos métodos da classe, garantindo a reutilização de código. Por fim, executaremos nosso primeiro teste no Cypress com sucesso, validando o fluxo de ponta a ponta.
 
-  - **Código1**: [**login.feature**](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress/e2e/features/login.feature)
+   - **Código1**: [**login.feature**](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress/e2e/features/login.feature)
      
-  - **Código2**: [**login_steps.js**](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress/e2e/steps/login_steps.js)
+   - **Código2**: [**login_steps.js**](https://github.com/Motatom0101/Projeto-Automacao-Web-Cypress1/blob/main/cypress/e2e/steps/login_steps.js)
    
 
 #
