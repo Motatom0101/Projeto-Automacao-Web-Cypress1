@@ -59,17 +59,28 @@ Após clonar o repositório com **git clone <url>**, o usuário deve seguir este
 
 1. **Instalar as Dependências**
 O comando que lê o seu package.json e baixa tudo o que é necessário (Cypress, Cucumber, Preprocessor, etc):
- - **npm install**
+
+
+```
+ npm install
+```
 
 2. **Abrir a Interface do Cypress (Modo Interativo)**
 Ideal para quem quer ver o navegador abrindo e o Cucumber processando os steps:
- - **npx cypress open**
+
+```
+ npx cypress open
+```
 
 Após abrir, o usuário deve selecionar E2E Testing e escolher o navegador de preferência.
 
 3. **Executar em Modo "Headless" (Modo Silencioso)**
 Muito usado em esteiras de CI/CD ou quando o QA quer apenas o resultado rápido no terminal:
- - **npx cypress run**
+
+```
+ npx cypress run
+```
+
 
 
 #
