@@ -16,8 +16,8 @@ class RegisterPage {
     }
 
     fillNameAndSurname(name, surname) {
-        cy.get(registerElements.inputName()).type(name);
-        cy.get(registerElements.inputSurname()).type(surname);
+        cy.get(registerElements.inputFirstName()).type(name);
+        cy.get(registerElements.inputLastName()).type(surname);
     }
 
     fillContacts(address, email, phone) {
@@ -27,7 +27,7 @@ class RegisterPage {
     }
 
     selectRadioGender(gender) {
-        cy.get(registerElements.checkRagioGender()).check(gender);
+        cy.get(registerElements.checkRadioGender()).check(gender);
     }
 
     selectCheckHobbies(hobbies) {
