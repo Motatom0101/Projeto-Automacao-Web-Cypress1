@@ -8,8 +8,9 @@ class RegisterElements {
     selectFile = () => { return '#imagesrc' };
     checkRagioGender = () => { return '[@type="radio"]' };
     checkBoxHobbies = () => { return '#checkbox1' };
-    inputLanguage = () => { return '#msdd' };
-    selectCountry = () => { return '#countries' };
+    inputLanguages = () => { return '#msdd' };
+    inputSkills = () => { return '#Skills' };
+    selectCountry = () => { return '#select2-country-container' };
     selectYear = () => { return '#yearbox' };
     selectMonth = () => { return '[@placeholder="Month"]' };
     selectDay = () => { return '#daybox' };
